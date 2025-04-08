@@ -1,0 +1,51 @@
+﻿## Compiled source
+bin/
+obj/
+out/
+TestResults/
+*.exe
+*.dll
+*.pdb
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## VS Code
+.vscode/
+
+## Visual Studio
+*.vs/
+.vs/
+
+## NuGet
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+*.snupkg
+
+## Build results
+*.log
+*.cache
+*.dbmdl
+
+## Others
+*.DS_Store
+*.log
+*.bak
+
+## Resharper
+_ReSharper*/
+*.DotSettings.user
+
+## Rider
+.idea/
+*.sln.iml
+
+## Test and Coverage
+coverage/
+*.coverage
+*.coveragexml
